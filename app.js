@@ -51,4 +51,4 @@ mainParas[1].innerText = "I CHANGED IT.";
 // Change the size of the header element to 200px using grid syntax
 var headerHeight = document.querySelector(".container");
 
-headerHeight.style.gridTemplateRows = "200px auto 12px";
+headerHeight.style.gridTemplateRows = "200px auto 125px";
